@@ -9,7 +9,7 @@ Ive developed an interest in server management, cloud computing, and software en
 
 Looking into data analysis, database management, cloud architecture, and cloud software engineering.
 
-This journey will be a *tough* one, as im still learning about all the terminology, theory and application of computer science and how it.
+This journey will be a *tough* one, as im still learning about all the theory and practice of computer science, and all the nuances it comes with.
 
 I will look back and this and reflect how much ive grown in this field.
 
